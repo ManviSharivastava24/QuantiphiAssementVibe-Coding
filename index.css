@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Simple range slider thumb styling for the price filter */
+input[type='range'] {
+  accent-color: #4f46e5;
+}
