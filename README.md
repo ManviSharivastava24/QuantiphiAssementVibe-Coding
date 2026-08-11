@@ -1,3 +1,29 @@
+========================================================================================
+|                                                                                      |
+|  +---------------------------+  +--------------------------------------------------+ |
+|  | FILTERS                   |  |  Product Catalog          [ Sort: Recommended ▼] | |
+|  |                           |  +--------------------------------------------------+ |
+|  | Categories                |  |                                                  | |
+|  | [☑] Electronics           |  |  +-------------------+   +-------------------+   | |
+|  | [☐] Apparel               |  |  | 🖼️ [Thumbnail]    |   | 🖼️ [Thumbnail]    |   | |
+|  | [☐] Footwear              |  |  |                   |   |                   |   | |
+|  |                           |  |  | ELECTRONICS       |   | APPAREL           |   | |
+|  | Price Range ($)           |  |  | Wireless Earbuds  |   | Cotton T-Shirt    |   | |
+|  | [ Min ] - [ Max ]         |  |  |                   |   |                   |   | |
+|  |                           |  |  | $120.00      ⭐ 4 |   | $25.00       ⭐ 5 |   | |
+|  | Minimum Rating            |  |  +-------------------+   +-------------------+   | |
+|  | ( ) 5 Stars & Up          |  |                                                  | |
+|  | (◉) 4 Stars & Up          |  |  +-------------------+   +-------------------+   | |
+|  | ( ) 3 Stars & Up          |  |  | 🖼️ [Thumbnail]    |   | 🖼️ [Thumbnail]    |   | |
+|  | ( ) 2 Stars & Up          |  |  |                   |   |                   |   | |
+|  | ( ) 1 Stars & Up          |  |  | FOOTWEAR          |   | ELECTRONICS       |   | |
+|  |                           |  |  | Running Sneakers  |   | Mechanical Key... |   | |
+|  |                           |  |  |                   |   |                   |   | |
+|  |                           |  |  | $85.00       ⭐ 4 |   | $150.00      ⭐ 5 |   | |
+|  +---------------------------+  |  +-------------------+   +-------------------+   | |
+|                                 |                                                  | |
+========================================================================================
+
 # E-Commerce Product Multi-Filter Sidebar (MERN)
 
 A full-stack product catalog with a live-updating multi-filter sidebar
